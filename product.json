@@ -2,26 +2,26 @@
     "productList": [
       {
         "id": 111,
-        "name": "Big Tasty"
-        "price": 2.99
+        "name": "Big Tasty",
+        "price": 2.99,
         "image": "https://media.istockphoto.com/photos/two-big-hamburgers-on-white-picture-id1206323252?k=20&m=1206323252&s=612x612&w=0&h=lZb7bZguszgUI-a-3tPBsHR15nTCAQyExguH8z2vf0M="
       },
       {
         "id": 112,
-        "name": "Bounty"
-        "price": 2.99
+        "name": "Bounty",
+        "price": 2.99,
         "image": "https://media.istockphoto.com/photos/a-beef-burger-in-white-background-picture-id1305897674?k=20&m=1305897674&s=612x612&w=0&h=wU_Zix0qIUx4DLnte5hrGvoA-XOCZ0XZrPX65GHXy_8="
       },
       {
         "id": 113,
-        "name": "Overpower"
-        "price": 5.50
+        "name": "Overpower",
+        "price": 5.50,
         "image": "https://media.istockphoto.com/photos/double-american-beef-burger-with-cheese-onion-tomato-salad-and-on-picture-id1248457828?k=20&m=1248457828&s=612x612&w=0&h=CWw9hHL_Fmz-aKhdQ0oQI3TG623Gzpz06qM421D5cvI="
       },
       {
         "id": 114,
-        "name": "Duet"
-        "price": 4.20
+        "name": "Duet",
+        "price": 4.20,
         "image": "https://media.istockphoto.com/photos/two-big-hamburgers-on-white-picture-id1206323252?k=20&m=1206323252&s=612x612&w=0&h=lZb7bZguszgUI-a-3tPBsHR15nTCAQyExguH8z2vf0M="
       }
     ]
