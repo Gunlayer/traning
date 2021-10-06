@@ -1,5 +1,4 @@
-{
-    "productList": [
+[
       {
         "id": 111,
         "name": "Big Tasty",
@@ -24,5 +23,5 @@
         "price": 4.20,
         "image": "https://media.istockphoto.com/photos/two-big-hamburgers-on-white-picture-id1206323252?k=20&m=1206323252&s=612x612&w=0&h=lZb7bZguszgUI-a-3tPBsHR15nTCAQyExguH8z2vf0M="
       }
-    ]
-  }
+]
+  
