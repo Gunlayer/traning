@@ -99,5 +99,5 @@
         "description": "chicken eggs",
         "sizes": [1, 3, 9],
         "sizeType": "PACKS"
-    },
+    }
 ]
