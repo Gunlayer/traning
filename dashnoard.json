@@ -3,7 +3,7 @@
     "id": 1,
     "image": "https://via.placeholder.com/200",
     "name": "Egg",
-    "price": 10,
+    "price": 10.0,
     "rating": 4.3,
     "description": "chicken eggs",
     "sizes": [10, 15, 20],
